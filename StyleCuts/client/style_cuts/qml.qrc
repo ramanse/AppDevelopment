@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>WgtImage.qml</file>
+        <file>Common.qml</file>
+        <file>WgtButton.qml</file>
+        <file>WgtText.qml</file>
+        <file>SchedulingPage.qml</file>
+        <file>WgtScreen.qml</file>
+    </qresource>
+</RCC>

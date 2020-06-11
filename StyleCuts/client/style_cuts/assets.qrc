@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/Background.png</file>
+        <file>fonts/Snell_Roundhand_Script.ttf</file>
+        <file>assets/logo.png</file>
+        <file>assets/buttonBg.png</file>
+        <file>assets/footerBg.png</file>
+        <file>assets/downArrow.png</file>
+        <file>assets/upArrow.png</file>
+        <file>fonts/GaramondRetrospectiveSSKItalic.ttf</file>
+    </qresource>
+</RCC>
